@@ -1,4 +1,4 @@
-package Trabajo1p3_ficherosXMLDOM;
+package XMLEditor;
 
 import java.io.File;
 import java.io.IOException;
