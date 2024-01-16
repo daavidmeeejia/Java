@@ -29,8 +29,6 @@ import org.w3c.dom.NodeList;
 import org.w3c.dom.Text;
 import org.xml.sax.SAXException;
 
-import EscribirXMLusandoDOM.ingrediente;
-
 public class main {
 
 	private static Scanner sc = new Scanner(System.in);
